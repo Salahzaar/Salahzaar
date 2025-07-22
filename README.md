@@ -1,3 +1,5 @@
+<p align="right"><a href="./README.en.md">Read this page in English</a></p>
+
 <h1 align="center">Et je suis Salah !</h1>
 <h3 align="center">Freelance SysAdmin ~ DevOps ~ Mentor IT</h3>
 
@@ -18,7 +20,7 @@ Des solutions simples, fiables et utiles avec surtout un vrai impact pour les hu
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 Et pleins d'autres !
 
 ---
