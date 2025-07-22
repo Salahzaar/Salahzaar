@@ -1,4 +1,11 @@
-<p align="right"><a href="./README.en.md">🇬🇧 Read this page in English</a></p>
+<p align="left">
+  <a href="./README.en.md">
+    <img
+  src="https://flagcdn.com/gb.svg"
+  width="20"
+  alt="United Kingdom">&nbsp;Read this page in English
+  </a>
+</p>
 
 <h1 align="center">Et je suis Salah !</h1>
 <h3 align="center">Freelance SysAdmin ~ DevOps ~ Mentor IT</h3>
