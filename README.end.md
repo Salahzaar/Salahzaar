@@ -1,4 +1,11 @@
-<p align="right"><a href="./README.md">Lire cette page en français</a></p>
+<p align="left">
+  <a href="./README.md">
+    <img
+  src="https://flagcdn.com/fr.svg"
+  width="20"
+  alt="France">&nbsp;Lire cette page en français
+  </a>
+</p>
 
 <h1 align="center">And I'm Salah</h1>
 <h3 align="center">Freelance SysAdmin ~ DevOps ~ IT Mentor</h3>
