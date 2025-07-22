@@ -1,4 +1,4 @@
-<p align="right"><a href="./README.en.md">Read this page in English</a></p>
+<p align="right"><a href="./README.en.md">🇬🇧 Read this page in English</a></p>
 
 <h1 align="center">Et je suis Salah !</h1>
 <h3 align="center">Freelance SysAdmin ~ DevOps ~ Mentor IT</h3>
