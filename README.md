@@ -7,7 +7,8 @@
 
 Je travaille dans l'IT depuis plus de 7 ans, en tant que freelance spécialisé en systèmes, réseaux, virtualisation et DevOps.  
 J'accompagne aussi les personnes en reconversion ou montée en compétence, à travers du mentorat, des contenus pédagogiques et une plateforme de formation dédiée.  
-Ma vision : des solutions simples, fiables et utiles — avec un vrai impact pour les humains derrière les machines.
+
+Des solutions simples, fiables et utiles avec surtout un vrai impact pour les humains derrière les machines.
 
 ---
 
